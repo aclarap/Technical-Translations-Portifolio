@@ -12,8 +12,6 @@
 This project demonstrates technical translation skills applied to software-related content, focusing on clarity, accuracy, and terminology consistency.
 
 ## Translation Example
-  *Original:*
-      -> APIs allow different systems to communicate with each other.
-
-  *Translation:*
-      -> As APIs permitem que diferentes sistemas se comuniquem entre si.
+   *Original:*
+      -> If you want to use an appliance in your house, you plug it into a plug socket and it works.               *Translation:*
+      -> Para utilizar um aparelho em uma residência, basta conectá-lo a uma tomada, que este funcionará.
