@@ -11,4 +11,4 @@ an electrician, difficult and dangerous to attempt.
 In the same way, if you want to say, program some 3D graphics, it is a lot
 easier to do it using an API written in a higher-level language such as
 JavaScript or Python, rather than try to directly write low-level code (say C or
-C++) that directly.está do lado 
+C++) that directly.
