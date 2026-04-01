@@ -1,8 +1,8 @@
 # Glossário Técnico – Web APIs
 | Inglês | Português |
 |--------|----------|
-| API | API |
-| Application Programming Interface - Interface de Programação de Aplicações |
+| API | API (sigla técnica)|
+| Application Programming Interface | Interface de Programação de Aplicações |
 | Higher-level language | Linguagem de alto nível |
 | Low-level code | Código de baixo nível |
 | Abstract (verb) | Diminuir a complexidade |
