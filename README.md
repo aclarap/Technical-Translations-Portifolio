@@ -15,3 +15,7 @@ This project demonstrates technical translation skills applied to software-relat
    *Original:*
       -> If you want to use an appliance in your house, you plug it into a plug socket and it works.               *Translation:*
       -> Para utilizar um aparelho em uma residência, basta conectá-lo a uma tomada, que este funcionará.
+
+## Learning Project
+  This project is part of my learning journey in technical translation.
+  I am currently building my skills by working with real-world technical texts and improving accuracy, clarity, and consistency.
